@@ -73,11 +73,11 @@ misc_entries:
   - title: and you can add data in _data/home.yml
     url: false
 
-  - title: Blog posts
-    post_list: true
-    url: false
+ # - title: Blog posts
+   # post_list: true
+    #url: false
 
-  - title: moonwalk on the Internet
+ - title: moonwalk on the Internet
     url: false
     entries:
       - title: on Github
