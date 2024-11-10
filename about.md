@@ -4,6 +4,6 @@ title: About
 ---
 
 - Maria Kopsacheili 
-  - title:Email: mariakopsaxeili6@gmail.com| 
+  - Email: mariakopsaxeili6@gmail.com| 
   - LinkedIn: https://www.linkedin.com/in/maria-kopsacheili | 
   - GitHub: https://github.com/mariakopsacheili
