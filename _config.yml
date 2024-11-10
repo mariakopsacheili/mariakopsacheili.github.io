@@ -3,6 +3,7 @@ author: Maria Kopsacheili
 url: https://mariakopsacheili.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
   Data Science Portfolio showcasing my projects and skills in data science.
+email: mariakopsaxeili6@gmail.com
 
 permalink: /:slug
 
