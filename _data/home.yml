@@ -54,14 +54,14 @@ footer_entries:
   - title: Maria's homepage
     url: https://mariakopsacheili.github.io
 
-  - title: linkedin
+  - title: LinkedIn
     url: https://www.linkedin.com/in/maria-kopsacheili
 
-  - title: github
+  - title: Github
     url: https://github.com/mariakopsacheili
 
-  - title: feed
-    url: feed.xml
+ # - title: feed
+  #  url: feed.xml
 
 misc_entries:
   - title: this is an example vertical list
