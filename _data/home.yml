@@ -11,7 +11,7 @@ navbar_entries:
 project_entries:
   - title: Project: Power BI dashboard of an App store analysis
     url: https://github.com/mariakopsacheili/PowerBI-project-Apple-Store.git
-    desc: An App store analysis in order to give us insights for the development of a new app. #This is an example project, configured in _data/home.yml
+    desc: An App store analysis in order to give us insights for the development of a new app. Team members: Maria Kopsacheili and Giannis Angelidakis. #This is an example project, configured in _data/home.yml
 
   - title: EDA in a netflix dataset
     url: overview-post
