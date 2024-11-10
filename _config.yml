@@ -2,7 +2,10 @@ title: Maria Kopsacheili - Data Science Portfolio
 author: Maria Kopsacheili
 url: https://mariakopsacheili.github.io # root address of the site
 description: > # description of the site (multiple lines allowed)
-  Data Science Portfolio showcasing my projects and skills in data science.
+  Hi I'm Maria! An aspiring data scientist with a Bachelor’s degree in Dietetics and Nutrition Science
+  and a comprehensive background in data science through a 500 hours bootcamp at Big Blue Academy.
+  Passionate about using data-driven approaches to solve complex problems and generate insights.
+  This is a Data Science Portfolio showcasing my projects and skills in data science.
 email: mariakopsaxeili6@gmail.com
 
 permalink: /:slug
