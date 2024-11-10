@@ -86,13 +86,13 @@ misc_entries:
      # - title: originally built for abhinav's homepage
       #  url: https://www.abhinav.co
 
-      - title: this list is scalable and can be nested
-        url: false
-        entries:
-          - title: this is nested inside a nested list
-            url: false
+     # - title: this list is scalable and can be nested
+      #  url: false
+       # entries:
+        #  - title: this is nested inside a nested list
+          #  url: false
 
-          - title: it is easy to use, see _data/home.yml to see how to configure it.
-            url: false
+         # - title: it is easy to use, see _data/home.yml to see how to configure it.
+            #url: false
 
 
