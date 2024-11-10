@@ -17,3 +17,9 @@ title: About
   Graduated: 2024
     - Gained expertise in nutrition science, data recording, and patient health analysis.
     - Conducted statistical analyses on dietary habits and health outcomes, providing a foundation in analytical techniques.
+   
+- Relevant Skills
+  - Data Science & Analytics: Data analysis, data visualization, data cleaning, exploratory data analysis (EDA), machine learning.
+  - Programming Languages: Python (NumPy, Pandas, Matplotlib, Seaborn), SQL.
+  - Data Visualization Tools: Power BI, Matplotlib, Seaborn.
+  - Soft Skills: Analytical thinking, attention to detail, problem-solving, communication.
