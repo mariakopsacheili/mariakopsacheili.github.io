@@ -13,9 +13,9 @@ project_entries:
     url: https://github.com/mariakopsacheili/PowerBI-project-Apple-Store.git
     desc: An App store analysis in order to give us insights for the development of a new app. Team members are Maria Kopsacheili and Giannis Angelidakis. #This is an example project, configured in _data/home.yml
 
-  - title: EDA in a netflix dataset
+  - title: EDA in a Netflix dataset
     url: https://github.com/mariakopsacheili/EDA-project-netflix.git
-    desc: Netflix Data for Content Creation: Developing a TV Show and a Movie. Team members are Maria Kopsacheili and Giannis Angelidakis.
+    desc: Developing a TV Show and a Movie through insights from EDA in a Netflix dataset. Team members are Maria Kopsacheili and Giannis Angelidakis.
 
   - title: Housing Price Regression model
     url: https://github.com/nimarak/Github_project_3.git
