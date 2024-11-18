@@ -17,9 +17,10 @@ project_entries:
     url: overview-post
     desc: # are shown in card layout
 
- # - title: Project 3
-   # url: overview-post
-   # desc: You can control visibility from _config.yml file
+  - title: Housing Price Regression model
+    url: https://github.com/nimarak/Github_project_3.git
+    desc: Empowering a real estate company to make better, faster pricing decisions. Team members are Maria Kopsacheili, Apostolis Karapatis and Nikolaos Marakis.
+    #You can control visibility from _config.yml file
 
   #- title: Project 4
    # url: overview-post
