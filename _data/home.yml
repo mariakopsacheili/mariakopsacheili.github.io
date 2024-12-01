@@ -13,7 +13,7 @@ project_entries:
     url: https://github.com/mariakopsacheili/PowerBI-project-Apple-Store.git
     desc: An App store analysis in order to give us insights for the development of a new app. Team members are Maria Kopsacheili and Giannis Angelidakis. #This is an example project, configured in _data/home.yml
 
-  - title: EDA on a IMdb Movies dataset
+  - title: EDA on IMdb Movies dataset
     url: https://github.com/mariakopsacheili/EDA-on-IMDB-Movies-Dataset.git
     desc: Exploratory Data Analysis on an IMDB dataset with movies. The goal is to search for the most successful ones, in order to take them as an inspiration for developing a new movie in our Production Company.
     
