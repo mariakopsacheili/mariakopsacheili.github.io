@@ -13,10 +13,10 @@ project_entries:
     url: https://github.com/mariakopsacheili/PowerBI-project-Apple-Store.git
     desc: An App store analysis in order to give us insights for the development of a new app. Team members are Maria Kopsacheili and Giannis Angelidakis. #This is an example project, configured in _data/home.yml
 
-  - title: EDA in a Netflix dataset
-    url: https://github.com/mariakopsacheili/EDA-project-netflix.git
-    desc: Developing a TV Show and a Movie through insights from EDA in a Netflix dataset. Team members are Maria Kopsacheili and Giannis Angelidakis.
-
+  - title: EDA on a IMdb Movies dataset
+    url: https://github.com/mariakopsacheili/EDA-on-IMDB-Movies-Dataset.git
+    desc: Scenario: I am a data scientist in a Movie Production Company and they tasked me with an Exploratory Data Analysis on an IMDB dataset with movies. The goal is to search for trends and characteristics of movies that made them popular in order to take them as an inspiration for developing a whole new movie in our Production Company.
+    
   - title: Housing Price Regression model
     url: https://github.com/nimarak/Github_project_3.git
     desc: Empowering a real estate company to make better and faster pricing decisions. Team members are Maria Kopsacheili, Apostolis Karapatis and Nikolaos Marakis.
