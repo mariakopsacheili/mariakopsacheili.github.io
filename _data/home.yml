@@ -22,9 +22,9 @@ project_entries:
     desc: Empowering a real estate company to make better and faster pricing decisions. Team members are Maria Kopsacheili, Apostolis Karapatis and Nikolaos Marakis.
     #You can control visibility from _config.yml file
 
-  #- title: Project 4
-   # url: overview-post
-   # desc: This project uses highlight markup, configured in _data/home.yml
+  - title: Grouping Customers to Maximize Campaign Effectiveness (Unsupervised model-Clustering)
+    url: https://github.com/mariakopsacheili/Machine-Learning-Second-Project-Clustering.git
+    desc: A Data-Driven Approach to Identify the different customers profiles. Team members are Nikolaos Marakis, Apostolis Karapatis and Maria Kopsacheili.
    # highlight: WIP
 
   #- title: Project 5
