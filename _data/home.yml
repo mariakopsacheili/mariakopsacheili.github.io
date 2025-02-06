@@ -27,9 +27,9 @@ project_entries:
     desc: A Data-Driven Approach to Identify the different customers profiles. Team members are Nikolaos Marakis, Apostolis Karapatis and Maria Kopsacheili.
    # highlight: WIP
 
-  #- title: Project 5
-   # url: overview-post
-   # desc: Moonwalk also has horizontal list (used in header and footer)
+  - title: SIKEAN Sales Performance Analysis 2022 (Power BI Dashboard)
+    url: https://github.com/mariakopsacheili/Ecommerce_Sales_Performance
+    desc: SIKEAN, a USA e-commerce company founded in 2018, specializes in selling office supplies, furniture and technology products. I'm partnering with the Head of Operations to perform analysis and extract insights for company's sales performance of 2022 and deliver recommendations to improve performance across sales, product and marketing teams.
    # highlight: WIP
 
 
