@@ -32,9 +32,9 @@ project_entries:
     desc: SIKEAN, a USA e-commerce company founded in 2018, specializes in selling office supplies, furniture and technology products. I'm partnering with the Head of Operations to perform analysis and extract insights for company's sales performance of 2022 and deliver recommendations to improve performance across sales, product and marketing teams.
    # highlight: WIP
 
-  #- title: Time Series Forecasting - Daily Births in 2015
-   # url: https://github.com/mariakopsacheili/Time-Series-Forecasting.git
-   # desc: This project focuses on time series forecasting for the daily number of births in 2015. The objective was to analyze the data, ensure stationarity and build predictive models using ARIMA, SARIMA and Prophet to determine the best approach.
+  - title: Time Series Forecasting - Daily Births in 2015
+    url: https://github.com/mariakopsacheili/Time-Series-Forecasting.git
+    desc: This project focuses on time series forecasting for the daily number of births in 2015. The objective was to analyze the data, ensure stationarity and build predictive models using ARIMA and SARIMA to determine the best approach.
 
 
 #old_project_entries:
