@@ -35,7 +35,10 @@ project_entries:
   - title: Time Series Forecasting - Daily Births in 2015
     url: https://github.com/mariakopsacheili/Time-Series-Forecasting.git
     desc: This project focuses on time series forecasting for the daily number of births in 2015. The objective was to analyze the data, ensure stationarity and build predictive models using ARIMA and SARIMA to determine the best approach.
-
+  
+  - title: Telco Customer Churn Prediction
+    url: https://github.com/mariakopsacheili/Telco-Customer-Churn-Prediction/tree/main
+    desc: Telco, a leading telecommunications provider established in 2000, assigned me the task of developing a machine learning-based churn prediction model using historical customer data. The primary objective is to identify customers at risk of churning so the marketing team can implement targeted retention strategies—ultimately reducing attrition and increasing customer loyalty.
 
 #old_project_entries:
  # - title: Soopr
