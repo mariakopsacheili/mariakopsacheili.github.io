@@ -40,6 +40,9 @@ project_entries:
     url: https://github.com/mariakopsacheili/Telco-Customer-Churn-Prediction/tree/main
     desc: Telco, a leading telecommunications provider established in 2000, assigned me the task of developing a machine learning-based churn prediction model using historical customer data. The primary objective is to identify customers at risk of churning so the marketing team can implement targeted retention strategies—ultimately reducing attrition and increasing customer loyalty.
 
+- title: COVID-19 Twitter Sentiment Analysis (NLP Project)
+    url: https://github.com/mariakopsacheili/NLP-Twitter-Sentiment-Classification.git
+    desc: This project applies Natural Language Processing (NLP) techniques to classify the sentiment of tweets related to the COVID-19 pandemic. The goal is to accurately identify one of five sentiment classes from raw tweet text using supervised machine learning models.
 #old_project_entries:
  # - title: Soopr
  #   url: https://www.soopr.co
