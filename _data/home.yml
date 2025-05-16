@@ -9,19 +9,6 @@ navbar_entries:
     url: https://mariakopsacheili.github.io
 
 project_entries:
-  - title: Power BI dashboard of an App store analysis
-    url: https://github.com/mariakopsacheili/PowerBI-project-Apple-Store.git
-    desc: An App store analysis in order to give us insights for the development of a new app. Team members are Maria Kopsacheili and Giannis Angelidakis. #This is an example project, configured in _data/home.yml
-
-  - title: EDA on IMdb Movies dataset
-    url: https://github.com/mariakopsacheili/EDA-on-IMDB-Movies-Dataset.git
-    desc: Exploratory Data Analysis on an IMDB dataset with movies. The goal is to search for the most successful ones, in order to take them as an inspiration for developing a new movie in our Production Company.
-    
-  - title: Housing Price Regression model
-    url: https://github.com/mariakopsacheili/House-Pricing-Predictive-Modeling
-    desc: Empowering a real estate company to make better and faster pricing decisions. Team members are Maria Kopsacheili, Apostolis Karapatis and Nikolaos Marakis.
-    #You can control visibility from _config.yml file
-
   - title: Grouping Customers to Maximize Campaign Effectiveness (Unsupervised model-Clustering)
     url: https://github.com/mariakopsacheili/Machine-Learning-Second-Project-Clustering.git
     desc: A Data-Driven Approach to Identify the different customers profiles. Team members are Nikolaos Marakis, Apostolis Karapatis and Maria Kopsacheili.
@@ -47,6 +34,20 @@ project_entries:
   - title: Commercial Performance Analysis (Report & Power BI)
     url: https://github.com/mariakopsacheili/Power-BI-Commercial-Performance-Analysis.git
     desc: A European travel company offering airport transfers and tours, tasked me with analyzing commercial performance using Power BI. I created key metrics (e.g. Revenue per Transfer, Cancellation Rate, Margin Rate, YoY/MoM trends), built interactive dashboards, and delivered a report with insights on revenue, bookings, and seasonality.
+ 
+ - title: Power BI dashboard of an App store analysis
+    url: https://github.com/mariakopsacheili/PowerBI-project-Apple-Store.git
+    desc: An App store analysis in order to give us insights for the development of a new app. Team members are Maria Kopsacheili and Giannis Angelidakis. #This is an example project, configured in _data/home.yml
+
+  - title: EDA on IMdb Movies dataset
+    url: https://github.com/mariakopsacheili/EDA-on-IMDB-Movies-Dataset.git
+    desc: Exploratory Data Analysis on an IMDB dataset with movies. The goal is to search for the most successful ones, in order to take them as an inspiration for developing a new movie in our Production Company.
+    
+  - title: Housing Price Regression model
+    url: https://github.com/mariakopsacheili/House-Pricing-Predictive-Modeling
+    desc: Empowering a real estate company to make better and faster pricing decisions. Team members are Maria Kopsacheili, Apostolis Karapatis and Nikolaos Marakis.
+    #You can control visibility from _config.yml file
+
 #old_project_entries:
  # - title: Soopr
  #   url: https://www.soopr.co
