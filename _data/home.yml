@@ -43,6 +43,10 @@ project_entries:
   - title: COVID-19 Twitter Sentiment Analysis (NLP Project)
     url: https://github.com/mariakopsacheili/NLP-Twitter-Sentiment-Classification.git
     desc: This project applies Natural Language Processing (NLP) techniques to classify the sentiment of tweets related to the COVID-19 pandemic. The goal is to accurately identify one of five sentiment classes from raw tweet text using supervised machine learning models.
+
+  - title: Commercial Performance Analysis (Report & Power BI)
+    url: https://github.com/mariakopsacheili/Power-BI-Commercial-Performance-Analysis.git
+    desc: A European travel company offering airport transfers and tours, tasked me with analyzing commercial performance using Power BI. I created key metrics (e.g. Revenue per Transfer, Cancellation Rate, Margin Rate, YoY/MoM trends), built interactive dashboards, and delivered a report with insights on revenue, bookings, and seasonality.
 #old_project_entries:
  # - title: Soopr
  #   url: https://www.soopr.co
